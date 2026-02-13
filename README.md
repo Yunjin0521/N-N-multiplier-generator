@@ -1,6 +1,12 @@
 #将所有的.py文件放在同一个文件夹下，在你的终端里键入如下命令：
+
+
 py -m PyInstaller -F -w --clean mulgen_allinone.py
+
+
 #会产生如下类似的输出：
+
+
 36143 INFO: checking EXE
 36143 INFO: Building EXE because EXE-00.toc is non existent
 36143 INFO: Building EXE from EXE-00.toc
